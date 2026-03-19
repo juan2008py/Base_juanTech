@@ -1,6 +1,6 @@
 [
-  "https://raw.githubusercontent.com/juan2008py/Base_juanTech/Main/img/Foto1.jpg",
-  "https://raw.githubusercontent.com/juan2008py/Base_juanTech/Main/img/20260228_201036.jpg",
-  "https://raw.githubusercontent.com/juan2008py/Base_juanTech/Main/img/20260228_201046.jpg",
-  "https://raw.githubusercontent.com/juan2008py/Base_juanTech/Main/img/20260312_090703.jpg"
+  {"imagen":"https://raw.githubusercontent.com/juan2008py/Base_juanTech/Main/img/Foto1.jpg"},
+  {"imagen":"https://raw.githubusercontent.com/juan2008py/Base_juanTech/Main/img/20260228_201036.jpg"},
+  {"imagen":"https://raw.githubusercontent.com/juan2008py/Base_juanTech/Main/img/20260228_201046.jpg"},
+  {"imagen":"https://raw.githubusercontent.com/juan2008py/Base_juanTech/Main/img/20260312_090703.jpg"}
 ]
